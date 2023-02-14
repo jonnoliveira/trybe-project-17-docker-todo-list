@@ -1,5 +1,5 @@
 FROM node:14.21.2-alpine3.17
-WORKDIR /
+WORKDIR /front-end
 ADD node_modules.tar.gz .
 COPY . .
 EXPOSE 3000
