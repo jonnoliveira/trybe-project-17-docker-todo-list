@@ -70,9 +70,9 @@ Por fim, a partir da conteinerização das aplicações, criamos conexão entre 
  
 </summary>
 
-## % :heavy_check_mark:
+## 100% :heavy_check_mark:
 
-![Project-docker-todo-list]()
+![Project-docker-todo-list](https://github.com/jonnoliveira/trybe-project-17-docker-todo-list/blob/main/images/docker-todo-list-grade.png)
 
 </details> 
  
