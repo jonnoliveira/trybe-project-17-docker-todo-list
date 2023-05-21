@@ -1,9 +1,7 @@
 # PROJETO 17 - DOCKER TO-DO LIST :computer:
 
-## Esse projeto foi desenvolvido com intuido de conseguir aprovação final no módulo de `back-end` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
+## Esse projeto foi desenvolvido com intuido de conseguir aprovação no módulo de `back-end` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
 
-## Acesse o projeto clicando [aqui](https://jonnoliveira.github.io/trybe-project-17-docker-todo-list/)! :computer:
- 
 ### Stacks utilizadas no desenvolvimento:
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Shield" />
