@@ -1,6 +1,6 @@
 # PROJETO 17 - DOCKER TO-DO LIST :computer:
 
-## Esse projeto foi desenvolvido com intuido de conseguir aprovação no módulo de `back-end` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
+## Esse projeto pertence ao módulo de módulo `back-end` da [Trybe](https://www.betrybe.com/) :green_heart:
 
 ### Stacks utilizadas no desenvolvimento:
 <div style="display: inline_block"><br>
